@@ -1,4 +1,5 @@
-🚀 Features
+##🚀 Features
+
 📍 Auto-detect your location using the Geolocation API
 
 📊 Real-time UV index using the WeatherAPI
@@ -11,7 +12,8 @@
 
 🔗 Educational resource links to trusted health organizations
 
-💡 Tech Stack
+##💡 Tech Stack
+
 HTML, CSS, JavaScript (React)
 
 Responsive layout using Flexbox
